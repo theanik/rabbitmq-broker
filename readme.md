@@ -1,7 +1,7 @@
 # RabbitMQ PAD
 
 ### Basic Queue Demo
-First we to exec to docker container (broker-application).
+First we need to exec to docker container (broker-application).
 ```
 // Go to basic queue folder
 cd basic-queue

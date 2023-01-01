@@ -447,3 +447,5 @@ MigrationBackup/
 
 docker/data
 app/vendor
+
+.idea
